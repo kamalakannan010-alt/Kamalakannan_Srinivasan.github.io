@@ -67,7 +67,7 @@
 ## 🎓 Education & Certifications  
 
 🎓 **B.Tech – Computer Science & Engineering** – Anna University, Chennai (2014 – 2018)  
-📜 **CISA (Certified Information Systems Auditor)** – Expected July 2025  
+📜 **CISA (Certified Information Systems Auditor)** –  July 2025  
 
 ---
 
