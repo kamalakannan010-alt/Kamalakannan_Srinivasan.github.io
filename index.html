@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kamalakannan Srinivasan Resume</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* Global Styles */
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background: #f7f9fc; color: #333; line-height: 1.6; display: flex; justify-content: center; }
+    a { color: #0072ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Centered container */
+    .container { 
+      width: 100%; 
+      max-width: 900px;
+      padding: 2rem; 
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+      margin: auto;
+      text-align: center;
+    }
+
+    /* Header / Banner */
+    header { text-align: center; margin-bottom: 2rem; width: 100%; }
+    header img { border-radius: 0%; width: 100%; height: 100%; object-fit: cover; }
+    header h1 { font-size: 2.5rem; margin-top: 1rem; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent; }
+
+    /* Section Titles */
+    h2 { color: #0072ff; margin-bottom: 1rem; border-bottom: 2px solid #00c6ff; display: inline-block; padding-bottom: 0.25rem; margin-top: 2rem; }
+
+    /* Sections */
+    section { 
+      width: 100%; 
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+    }
+
+    /* About Section */
+    .about p { margin-bottom: 1rem; text-align: center; }
+
+    /* Highlights / Awards / Skills / Beyond Work */
+    .highlights, .awards, .skills, .beyond-work { margin-bottom: 2rem; }
+    ul { list-style: none; padding: 0; text-align: center; display: flex; flex-direction: column; align-items: center; }
+    li { margin-bottom: 0.75rem; padding-left: 0; position: relative;}
+    li::before { content: "•"; color: #0072ff; position: static; margin-right: 0.5rem; }
+
+    /* Awards */
+    .award { 
+      background: #e6f0ff; 
+      padding: 1rem; 
+      border-left: 4px solid #0072ff; 
+      margin-bottom: 1rem; 
+      border-radius: 6px; 
+      width: 100%; 
+      max-width: 700px; 
+      display: flex; 
+      justify-content: center; 
+      text-align: center; 
+      flex-direction: column;
+    }
+
+    /* Experience Cards */
+    .experience-card { 
+      background: #fff; 
+      border-radius: 8px; 
+      padding: 1rem 1.5rem; 
+      margin-bottom: 1rem; 
+      box-shadow: 0 3px 8px rgba(0,0,0,0.05); 
+      width: 100%; 
+      max-width: 700px; 
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+      text-align: center; 
+    }
+    .experience-card h3 { color: #0072ff; margin-bottom: 0.25rem; }
+    .experience-card span { font-size: 0.9rem; color: #555; display: block; margin-bottom: 0.5rem; }
+    .experience-card ul li { padding-left: 0; }
+
+    /* Skills badges */
+    .skills img { margin: 0.25rem; height: 28px; }
+
+    /* Footer */
+    footer { text-align: center; margin-top: 3rem; padding-top: 2rem; color: #555; font-size: 0.9rem; border-top: 1px solid #ddd; }
+
+    .experience-contents {
+        text-align: left;
+        width: 100%;
+    }
+    /* Responsive */
+    @media(max-width: 900px) {
+      header h1 { font-size: 2rem; }
+      .experience-card, .award { padding: 0.75rem 1rem; }
+      ul li { font-size: 0.95rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header -->
+    <header>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kamalakannan%20Srinivasan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Kamalakannan Srinivasan">
+      <p>San Francisco, USA | <a href="mailto:kamalakannan010@gmail.com">Email Me</a> | <a href="https://www.linkedin.com/in/kamalakannan-srinivasan-11585615b">LinkedIn</a></p>
+    </header>
+
+    <!-- About Me -->
+    <section class="about">
+      <h2>About Me</h2>
+      <p>💼 IT Audit Professional with <strong>6+ years of experience</strong> in SOX compliance, SOC reporting, ITGC/ITAC/IPE testing, and ERP controls.</p>
+      <p>⚡ Skilled at identifying risks, improving control frameworks, and enabling reliable financial reporting in <strong>fast-paced technology environments</strong>.</p>
+    </section>
+
+    <!-- Highlights -->
+    <section class="highlights">
+      <h2>Highlights</h2>
+      <ul>
+        <li>🔒 IT Risk Specialist – SOX compliance across 100+ SAP & custom systems</li>
+        <li>🤝 Team Mentor – Trained & coached audit teams across USA & India</li>
+        <li>📊 Client Engagements – Worked with Fortune 500 clients in tech, telecom, and financial services</li>
+        <li>🌍 Global Experience – US onsite + offshore leadership in India</li>
+      </ul>
+    </section>
+
+    <!-- Awards -->
+    <section class="awards">
+      <h2>Awards & Recognition</h2>
+      <div class="award">
+        <strong>Bravo Award – April 2025</strong> | EY<br>
+        Awarded by Manager <strong>Himanshu Malik</strong> for delivering <strong>high-quality work</strong> and managing <strong>complex ITAC controls</strong>
+      </div>
+      <div class="award">
+        <strong>Bravo Award – May 2025</strong> | EY<br>
+        Awarded by Senior Manager <strong>Vincent Villacin</strong> for delivering <strong>high-quality work</strong>
+      </div>
+      <div class="award">
+        <strong>Bravo Award – July 2025</strong> | EY<br>
+        Awarded by Manager <strong>Matt B Rox</strong> for <strong>leading a complex SOX project</strong> and demonstrating strong <strong>leadership</strong>
+      </div>
+    </section>
+
+    <!-- Experience -->
+    <section class="experience">
+      <h2>Experience</h2>
+
+      <div class="experience-card">
+        <h3>Senior Consultant, Technology Risk – Ernst & Young (San Francisco, USA)</h3>
+        <span>Sep 2024 – Present</span>
+        <ul>
+          <li class="experience-contents">Led IT audits for a $233B cloud software firm, $61.8B HCM company & $32B storage provider.</li>
+          <li class="experience-contents">Delivered SOX compliance for 100+ SAP & in-house systems.</li>
+          <li class="experience-contents">Strengthened stakeholder relationships & trained new audit teams during high turnover.</li>
+          <li class="experience-contents">Provided risk mitigation guidance for SAP, Oracle, EDI, Boomi & SaaS apps.</li>
+        </ul>
+      </div>
+
+      <div class="experience-card">
+        <h3>Senior Consultant, Technology Risk – Ernst & Young (Bangalore, India)</h3>
+        <span>Sep 2022 – Aug 2024</span>
+        <ul>
+          <li class="experience-contents">Managed audits for a $1.61B car rental company – 80+ ITGCs & 40+ ITACs.</li>
+          <li class="experience-contents">Coordinated global teams (EY US + offshore India).</li>
+          <li class="experience-contents">Led SOX IT audit for a $1B vacation ownership brand across 20 apps.</li>
+          <li class="experience-contents">Designed & delivered boot camp training for new hires.</li>
+        </ul>
+      </div>
+
+      <div class="experience-card">
+        <h3>Associate Consultant – Ernst & Young (Bangalore, India)</h3>
+        <span>Aug 2021 – Aug 2022</span>
+        <ul>
+          <li class="experience-contents">ITGC QA audits for a US telecom giant.</li>
+          <li class="experience-contents">Supported internal audits for Oil & Gas, Auto, and Healthcare clients.</li>
+        </ul>
+      </div>
+
+      <div class="experience-card">
+        <h3>Analyst – KPMG (Bangalore, India)</h3>
+        <span>Aug 2019 – Jul 2021</span>
+        <ul>
+          <li class="experience-contents">Supported ITGC & ITAC testing across FMCG, Banking & Fortune 500 clients.</li>
+          <li class="experience-contents">Conducted walkthroughs & testing for 20+ applications at a Japanese heavy equipment manufacturer.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Education & Certifications -->
+    <section class="education">
+      <h2>Education & Certifications</h2>
+      <ul>
+        <li>🎓 B.Tech – Computer Science & Engineering – Anna University, Chennai (2014 – 2018)</li>
+        <li>📜 CISA (Certified Information Systems Auditor) – Expected July 2025</li>
+      </ul>
+    </section>
+
+    <!-- Skills -->
+    <section class="skills">
+      <h2>Tech & Skills</h2>
+      <p>
+        <img src="https://img.shields.io/badge/IT%20Audit-0072ff?style=for-the-badge&logo=fortinet&logoColor=white">
+        <img src="https://img.shields.io/badge/SOX%20Compliance-00c6ff?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+        <img src="https://img.shields.io/badge/Project%20Mgmt-0072ff?style=for-the-badge&logo=asana&logoColor=white">
+        <img src="https://img.shields.io/badge/ERP%20Controls-00c6ff?style=for-the-badge&logo=sap&logoColor=white">
+        <img src="https://img.shields.io/badge/CISA-0072ff?style=for-the-badge&logo=certification&logoColor=white">
+      </p>
+    </section>
+
+    <!-- Beyond Work -->
+    <section class="beyond-work">
+      <h2>Beyond Work</h2>
+      <ul>
+        <li>🏸 Playing badminton</li>
+        <li>📸 Photography</li>
+      </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      &copy; 2025 Kamalakannan Srinivasan. All Rights Reserved.
+    </footer>
+
+  </div>
+</body>
+</html>
