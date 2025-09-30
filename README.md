@@ -90,18 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalakannan010&show_icons=true&theme=blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalakannan010&layout=compact&theme=blue" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
