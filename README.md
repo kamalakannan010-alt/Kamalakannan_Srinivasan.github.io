@@ -1,75 +1,116 @@
-# 👋 Hi, I'm Kamalakannan S
-
-📍 San Francisco, California, USA  
-📧 [kamalakannan010@gmail.com](mailto:kamalakannan010@gmail.com)  
-📞 +1 628-488-6330  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamalakannan-srinivasan-11585615b)  
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kamalakannan%20Srinivasan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 ---
 
-## 🚀 About Me
-Results-driven **IT Audit professional** with 6+ years of experience in **SOX compliance, SOC reporting, and ERP controls testing**. Skilled in assessing **ITGCs, ITACs, IPE, and manual controls** across complex technology environments. Proven ability to identify risks, strengthen control frameworks, and deliver reliable financial reporting solutions in dynamic, fast-paced settings.
+## Hi 👋, I'm Kamalakannan Srinivasan 
+
+💼 IT Audit Professional with **6+ years of experience** in  
+**SOX compliance, SOC reporting, ITGC/ITAC/IPE testing, and ERP controls**.  
+⚡ Skilled at identifying risks, improving control frameworks, and enabling reliable financial reporting in **fast-paced technology environments**.  
+
+📍 San Francisco, USA | ✉️ [Email Me](mailto:kamalakannan010@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kamalakannan-srinivasan-11585615b)
 
 ---
 
-## 💼 Experience
+## 🏆 Highlights
 
-### **Senior Consultant, Technology Risk**  
-**Ernst & Young – San Francisco, USA**  
+- 🔒 **IT Risk Specialist** – SOX compliance across 100+ SAP & custom systems  
+- 🤝 **Team Mentor** – Trained & coached audit teams across USA & India  
+- 📊 **Client Engagements** – Worked with Fortune 500 clients in tech, telecom, and financial services  
+- 🌍 **Global Experience** – US onsite + offshore leadership in India  
+
+---
+
+## 🏅 Awards & Recognition  
+
+- 🏆 **Bravo Award – April 2025** | **EY**  
+  Awarded by Manager **Himanshu Malik** for delivering **high-quality work** and managing **complex ITAC controls**.  
+
+- 🏆 **Bravo Award – May 2025** | **EY**  
+  Awarded by Senior Manager **Vincent Villacin** for delivering **high-quality work**.  
+
+- 🏆 **Bravo Award – July 2025** | **EY**  
+  Awarded by Manager **Matt B Rox** for **leading a complex SOX project** and demonstrating strong **leadership**.  
+
+---
+
+## 💼 Experience  
+
+### 🚀 **Senior Consultant, Technology Risk** – Ernst & Young (San Francisco, USA)  
 *Sep 2024 – Present*  
-- Led IT audit engagements for top technology clients, including a $233.2B cloud software company, $61.8B human capital management firm, and $32B data storage provider.  
-- Delivered SOX compliance across 100+ internally built and SAP systems, performing **ITGC, ITAC, and IPE testing**.  
-- Trained a new audit team in 2025, strengthening stakeholder relationships during high turnover.  
-- Provided IT risk mitigation recommendations for **SAP, Oracle, EDI, Boomi, interfaces, and SaaS applications**.  
-- Mentored interns and new joiners.  
+- Led IT audits for a $233B cloud software firm, $61.8B HCM company & $32B storage provider.  
+- Delivered SOX compliance for **100+ SAP & in-house systems**.  
+- Strengthened stakeholder relationships & trained new audit teams during high turnover.  
+- Provided risk mitigation guidance for **SAP, Oracle, EDI, Boomi & SaaS apps**.  
 
----
-
-### **Senior Consultant, Technology Risk**  
-**Ernst & Young – Bangalore, India**  
+### 🌏 **Senior Consultant, Technology Risk** – Ernst & Young (Bangalore, India)  
 *Sep 2022 – Aug 2024*  
-- Managed audits for a $1.61B car rental company, leading testing of 80+ ITGCs and 40+ ITACs.  
-- Coordinated with EY US while building an offshore team in India.  
-- Led SOX IT audit for a $1B vacation ownership brand across 20 applications.  
-- Conducted walkthroughs with business owners and supported remediation.  
-- Took initiatives in **learning & development programs** and led boot camp training for new hires.  
+- Managed audits for a $1.61B car rental company – 80+ ITGCs & 40+ ITACs.  
+- Coordinated global teams (EY US + offshore India).  
+- Led SOX IT audit for a $1B vacation ownership brand across 20 apps.  
+- Designed & delivered **boot camp training** for new hires.  
 
----
-
-### **Associate Consultant, Technology Risk**  
-**Ernst & Young – Bangalore, India**  
+### 🛠 **Associate Consultant** – Ernst & Young (Bangalore, India)  
 *Aug 2021 – Aug 2022*  
-- Conducted ITGC quality assurance audits for a leading US telecom company.  
-- Supported internal audits for an Oil & Gas company and managed IT SOX testing for a major US automobile group.  
-- Led walkthroughs and testing of key reports for a U.S. healthcare client.  
+- ITGC QA audits for a US telecom giant.  
+- Supported internal audits for Oil & Gas, Auto, and Healthcare clients.  
 
----
-
-### **Analyst, Technology Risk**  
-**KPMG – Bangalore, India**  
+### 📈 **Analyst** – KPMG (Bangalore, India)  
 *Aug 2019 – Jul 2021*  
-- Supported ITGC and ITAC testing for internal and external audits across **FMCG, banking, and Fortune 500 clients**.  
-- Led walkthroughs and testing for 20+ applications for a Japanese heavy equipment manufacturer.  
+- Supported ITGC & ITAC testing across FMCG, Banking & Fortune 500 clients.  
+- Conducted walkthroughs & testing for 20+ applications at a Japanese heavy equipment manufacturer.  
 
 ---
 
-## 🎓 Education & Certifications
-- **Certified Information Systems Auditor (CISA)** – July 2025  
-- **B.Tech in Computer Science and Engineering** – Anna University, Chennai *(2014 – 2018)*  
+## 🎓 Education & Certifications  
+
+🎓 **B.Tech – Computer Science & Engineering** – Anna University, Chennai (2014 – 2018)  
+📜 **CISA (Certified Information Systems Auditor)** – Expected July 2025  
 
 ---
 
-## 🛠 Skills
-- IT Audit & SOX Compliance  
-- ITGC & ITAC Testing  
-- Project & Team Management  
-- Emerging Technology Risk  
-- Stakeholder Collaboration & Communication  
+## 🛠 Tech & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IT%20Audit-0072ff?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOX%20Compliance-00c6ff?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project%20Mgmt-0072ff?style=for-the-badge&logo=asana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP%20Controls-00c6ff?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CISA-0072ff?style=for-the-badge&logo=certification&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Interests
-- Playing badminton 🏸  
-- Photography 📸  
+## 🎯 Beyond Work  
+
+🏸 Playing badminton  
+📸 Photography  
 
 ---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalakannan010&show_icons=true&theme=blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalakannan010&layout=compact&theme=blue" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:kamalakannan010@gmail.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kamalakannan-srinivasan-11585615b"><img src="https://img.shields.io/badge/LinkedIn-0072ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
