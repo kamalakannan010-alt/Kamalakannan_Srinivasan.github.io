@@ -7,8 +7,7 @@
 
 ## Hi 👋, I'm Kamalakannan Srinivasan 
 
-💼 IT Audit Professional with **6+ years of experience** in  
-**SOX compliance, SOC reporting, ITGC/ITAC/IPE testing, and ERP controls**.  
+💼 IT Audit Professional with **6+ years of experience** in **SOX compliance, SOC reporting, ITGC/ITAC/IPE testing, and ERP controls**.  
 ⚡ Skilled at identifying risks, improving control frameworks, and enabling reliable financial reporting in **fast-paced technology environments**.  
 
 📍 San Francisco, USA | ✉️ [Email Me](mailto:kamalakannan010@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kamalakannan-srinivasan-11585615b)
